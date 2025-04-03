@@ -42,19 +42,4 @@ pip install ultralytics opencv-python numpy pyserial
 ## 🚀 Results & Applications
 This system can be applied in **robotics, industrial automation, sports, and computer vision**. It can be enhanced with trajectory prediction algorithms and adapted for **autonomous robots or sports training systems**.
 
-## 📷 Detection Example
-(Add an image or GIF showcasing the system in action)
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-📌 *If you liked this project, don't forget to ⭐ it on GitHub!*
-
-
-
-This system can be applied in robotics, industrial automation, sports, and computer vision. It can be enhanced with trajectory prediction algorithms and adapted for autonomous robots or sports training systems.
-
-📷 Detection Example
-
-(Add an image or GIF showcasing the system in action)
